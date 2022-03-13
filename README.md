@@ -31,9 +31,9 @@
         None available.
 ---
 ## CREDITS
-   * UT Modules 17
-   [Regexr](regexr.com)
-   [The Coding Train](https://www.youtube.com/watch?v=7DG3kCDx53c)
+   * UT Modules 17 <br>
+   * [Regexr](regexr.com) <br>
+   * [The Coding Train](https://www.youtube.com/watch?v=7DG3kCDx53c)
 ---
 ## Questions
 For any questions 
